@@ -1,0 +1,12 @@
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\bin\Debug\TestPhase-II.exe.config
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\bin\Debug\TestPhase-II.exe
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\bin\Debug\TestPhase-II.pdb
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase-II.csprojResolveAssemblyReference.cache
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase_II.Form1.resources
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase_II.Properties.Resources.resources
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase-II.csproj.GenerateResource.Cache
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase-II.exe
+D:\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase-II.pdb
+D:\VU Project\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\bin\Debug\TestPhase-II.exe.config
+D:\VU Project\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase-II.exe
+D:\VU Project\TestPhase-IIa\coding\TestPhase-II\TestPhase-II\obj\Debug\TestPhase-II.pdb
